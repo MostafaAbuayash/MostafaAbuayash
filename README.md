@@ -4,7 +4,7 @@
 🤝 I’m up to help with front end development<br>
 🌱 I’m currently working on improving my UI & UX skills<br>
 💬 Ask me about technology! I'd love to help<br>
-👀 Fun fact: windows has a clipboard like your phone, just click win+V , it saves even screenshots!
+👀 Fun fact: windows has a clipboard like your phone, just click `win+V` , it saves even screenshots!
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
