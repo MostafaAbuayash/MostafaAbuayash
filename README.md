@@ -1,5 +1,5 @@
 # 💫 Hello 👋 My name is Mostafa!
-🔭 I’m currently working on my graduation project<br>
+> 🔭 I’m currently working on my graduation project<br>
 🏪 we're making a Restaurant Equipment Sales System<br>
 🤝 I’m up to help with front end development<br>
 🌱 I’m currently working on improving my UI & UX skills<br>
@@ -16,5 +16,5 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+## ✍️ Random Dev Quote
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes)
