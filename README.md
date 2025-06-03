@@ -1,5 +1,5 @@
 # 💫 Hello 👋 My name is Mostafa!
-> 🔭 I’m currently working on my graduation project<br>
+> 🔭 I’m a front end developer<br>
 🏪 my most recent work was [Restaurant Equipment Sales System](https://github.com/Graduation-project2024)<br>
 🤝 I’m up to help with front end development<br>
 🌱 I’m currently working on improving my UI & UX skills<br>
