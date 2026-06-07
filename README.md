@@ -1,5 +1,5 @@
 # 💫 Hello 👋 My name is Mostafa!
-> 🔭 I’m a front end developer<br>
+> 🔭 I’m a IT Technician & Networking Expert | Angular Front-End Developer | Odoo (Python) Developer<br>
 🏪 my most recent work was [Courses system Coursack](https://github.com/MostafaAbuayash/Courses-system-Coursack)<br>
 🤝 I’m up to help with front end & Odoo python development<br>
 🌱 I’m currently working on improving my networking skills<br>
